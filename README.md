@@ -1,2 +1,5 @@
-# ci-pipeline
-Automated CI/CD pipeline
+# CI Pipeline
+
+Automated testing infrastructure.
+
+Last updated: 2026-03-31 19:41:33
